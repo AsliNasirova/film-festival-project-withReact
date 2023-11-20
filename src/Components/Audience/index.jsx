@@ -10,7 +10,7 @@ const Audience = () => {
                 </div>
                 <div className='audience_container'>
                     <div className='video_audience'>
-                        <video src="https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/home4-video.mp4"></video>
+                    <video class="elementor-video" src="https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/home4-video.mp4" autoplay="" loop="" muted="muted" playsinline="" controlslist="nodownload" poster="https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/h4-img1.jpg"></video>
                     </div>
                     <div className='audience_right'>
                         <p>DOCUMENTARY</p>
